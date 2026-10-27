@@ -77,7 +77,8 @@ Materiais produzidos durante o desenvolvimento do segundo cérebro:
 
 ## 7. Evidências do projeto
 
-Serão adicionadas capturas de tela que demonstrem o uso do notebook, as perguntas realizadas e as respostas com suas citações.
+Fontes.png
+Evidências de Respostas e Citações.png
 
 ## 8. Link do notebook
 
