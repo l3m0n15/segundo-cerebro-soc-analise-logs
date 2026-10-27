@@ -73,6 +73,7 @@ Materiais produzidos durante o desenvolvimento do segundo cérebro:
 - Visão geral em áudio
 
 - [Mapa mental (PNG)](NotebookLM%20Mapa%20Mental.png)
+- Apresentação de slides (PDF)
 
 ## 7. Evidências do projeto
 
