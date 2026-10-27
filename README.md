@@ -16,7 +16,38 @@ O foco é compreender como os logs ajudam profissionais de segurança a identifi
 
 Nesta seção serão documentadas as fontes utilizadas no notebook, com seus respectivos links e justificativas para a escolha.
 
-<!-- Adicionar as fontes reais utilizadas no notebook. -->
+Blogs:
+
+IBM:
+https://www.ibm.com/br-pt/think/topics/log-analysis
+
+AWS:
+https://aws.amazon.com/pt/what-is/log-analytics/
+
+VirtuaWorks:
+https://virtuaworks.com.br/analise-de-logs-essencial-em-ciberseguranca/
+
+Dynatrace:
+https://www.dynatrace.com/pt-br/platform/log-management-analytics/
+
+
+Canais Youtube:
+
+Código Fonte TV: 
+https://www.youtube.com/watch?v=BVqFpbFiV34&pp=ygUQYW7DoWxpc2UgZGUgbG9ncw%3D%3D
+
+Cyber Diário: 
+https://www.youtube.com/watch?v=Owszo6RluK8
+
+Perícia Hacker: 
+https://www.youtube.com/watch?v=-5c4ArAZ9zY
+
+Wellington Santos|CYBERSECURITY: 
+https://www.youtube.com/watch?v=qr0aKNky5vc&pp=ygUQYW7DoWxpc2UgZGUgbG9ncw%3D%3D
+
+PDF:
+
+https://www.researchgate.net/publication/288179411_A_analise_de_logs_como_estrategia_para_a_realizacao_da_garantia_do_usuario
 
 ## 4. Instruções fornecidas à IA
 
@@ -26,7 +57,11 @@ O notebook foi configurado para que a IA atue como especialista em análise de l
 
 Nesta seção serão registradas as perguntas feitas à IA, os principais pontos das respostas e as fontes citadas para fundamentá-las.
 
-<!-- Adicionar perguntas reais, respostas resumidas e suas fontes. -->
+Pergunta: Como a análise de logs ajuda a identificar ataques cibernéticos?
+
+Resumo da resposta: A análise de logs permite identificar atividades suspeitas, detectar padrões anormais, investigar incidentes e reconstruir a linha do tempo de um ataque. Exemplos incluem tentativas repetidas de login, acessos suspeitos e execução de processos desconhecidos. Ferramentas SIEM ajudam a centralizar e correlacionar eventos. É importante cruzar diferentes evidências antes de confirmar um ataque.
+
+Fontes: inserir os materiais citados pela IA no Gemini Notebook.
 
 ## 6. Materiais gerados
 
