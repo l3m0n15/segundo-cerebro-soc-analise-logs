@@ -45,7 +45,7 @@ Serão adicionadas capturas de tela que demonstrem o uso do notebook, as pergunt
 
 ## 8. Link do notebook
 
-<!-- Inserir aqui o link compartilhável do notebook. -->
+https://notebook.google.com/notebook/da68d393-b999-497d-b023-d54d9e930a3c
 
 ## 9. Aprendizados
 
